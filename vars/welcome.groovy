@@ -1,4 +1,4 @@
-def call(name)
+def add(x,y)
 {
-  echo ('hi $name , how are you') 
+  echo "adding of ${x} and ${y} is ${x+Y}"
 }
